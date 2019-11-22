@@ -1,6 +1,10 @@
 import java.lang.*;
 import java.util.Random;
 
+/*
+  This implementation is the live-coded one, and was not working when we finished it.
+ */
+
 class DoubleHash
 {
     public
